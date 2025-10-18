@@ -1,0 +1,17 @@
+body {
+    background-image: url('https://images.pexels.com/photos/370799/pexels-photo-370799.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-el{
+    margin-top: 50% !important;
+}
+
+.nav-rt{
+    color: rgba(255, 255, 255, 0.898) !important;
+}
+
+.nav-rt{
+    text-decoration: underline !important;
+}
